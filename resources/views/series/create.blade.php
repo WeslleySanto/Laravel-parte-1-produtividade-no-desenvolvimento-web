@@ -5,6 +5,7 @@
 @endsection
 
 @section('conteudo')
+
 <form method="post">
     @csrf
     <div class="form-group">
